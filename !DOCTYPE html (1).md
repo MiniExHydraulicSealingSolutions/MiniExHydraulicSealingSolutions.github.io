@@ -8,7 +8,7 @@
 </head>  
 <body>  
   <h1>Contact Us</h1>  
-  <p>Email: <strong>your-email-here@4runner757@gmail.com</strong></p>  
+  <p>Email: <strong>@4runner757@gmail.com</strong></p>  
   <p>We typically respond within 24 hours.</p>  
   
   <p><a href="index.html">Back to Home</a></p>  
